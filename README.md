@@ -1,6 +1,9 @@
-### Hi there 👋
+### Hi! My name is Dana, and I'm an aerospace engineering student at Iowa State University. I am using GitHub for one of my courses, AERE 361, and for the research I'm involved in.
 
 <!--
+
+Add a link to your profile page in the "lessons_learned.md" you created. Let the world know a little bit more about you! What are you interested in learning? What are you working on? What's your favorite hobby? Learn more about creating your profile README in the document
+
 **dana028/dana028** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
